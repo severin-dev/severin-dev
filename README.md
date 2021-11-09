@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @severin-dev
+- 👀 I’m interested in Startups, Blockchain, and Rockets 🚀
+- 🌱 I’m currently learning Vue.js, React.Js, Moon.Js and Rust.
+- 💞️ I’m looking to collaborate on tech startups or crypto projects.
+- 📫 You can reach me via email at severinnarcov@gmail.com
